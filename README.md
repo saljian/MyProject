@@ -1,2 +1,2 @@
-# core-python-project
-This is for core python project
+# projects
+This is for projects
